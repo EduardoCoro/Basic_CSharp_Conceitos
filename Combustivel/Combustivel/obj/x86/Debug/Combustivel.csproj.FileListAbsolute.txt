@@ -1,0 +1,5 @@
+C:\Users\CLI\Desktop\C#\Combustivel\Combustivel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CLI\Desktop\C#\Combustivel\Combustivel\bin\Debug\Combustivel.exe
+C:\Users\CLI\Desktop\C#\Combustivel\Combustivel\bin\Debug\Combustivel.pdb
+C:\Users\CLI\Desktop\C#\Combustivel\Combustivel\obj\x86\Debug\Combustivel.exe
+C:\Users\CLI\Desktop\C#\Combustivel\Combustivel\obj\x86\Debug\Combustivel.pdb

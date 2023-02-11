@@ -1,0 +1,4 @@
+C:\Users\Diogo\Desktop\Caminhada\Caminhada\bin\Debug\Caminhada.exe
+C:\Users\Diogo\Desktop\Caminhada\Caminhada\bin\Debug\Caminhada.pdb
+C:\Users\Diogo\Desktop\Caminhada\Caminhada\obj\x86\Debug\Caminhada.exe
+C:\Users\Diogo\Desktop\Caminhada\Caminhada\obj\x86\Debug\Caminhada.pdb

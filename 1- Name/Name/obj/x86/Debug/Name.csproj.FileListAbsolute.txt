@@ -1,0 +1,11 @@
+C:\Users\CLI\Desktop\Name\Name\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Du LP\Name\Name\bin\Debug\Name.exe
+D:\Du LP\Name\Name\bin\Debug\Name.pdb
+D:\Du LP\Name\Name\obj\x86\Debug\Name.exe
+D:\Du LP\Name\Name\obj\x86\Debug\Name.pdb
+G:\Du LP\Name\Name\obj\x86\Debug\Name.exe
+G:\Du LP\Name\Name\obj\x86\Debug\Name.pdb
+G:\Du LP\1- Name\Name\obj\x86\Debug\Name.exe
+G:\Du LP\1- Name\Name\obj\x86\Debug\Name.pdb
+E:\Escola Du\Du LP\1- Name\Name\obj\x86\Debug\Name.exe
+E:\Escola Du\Du LP\1- Name\Name\obj\x86\Debug\Name.pdb

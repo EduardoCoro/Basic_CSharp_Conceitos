@@ -1,0 +1,4 @@
+C:\Users\Diogo\Desktop\Falta\Falta\bin\Debug\Falta.exe
+C:\Users\Diogo\Desktop\Falta\Falta\bin\Debug\Falta.pdb
+C:\Users\Diogo\Desktop\Falta\Falta\obj\x86\Debug\Falta.exe
+C:\Users\Diogo\Desktop\Falta\Falta\obj\x86\Debug\Falta.pdb

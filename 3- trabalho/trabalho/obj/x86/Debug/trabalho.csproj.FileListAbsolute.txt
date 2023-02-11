@@ -1,0 +1,4 @@
+C:\Users\Diogo\Desktop\trabalho\trabalho\bin\Debug\trabalho.exe
+C:\Users\Diogo\Desktop\trabalho\trabalho\bin\Debug\trabalho.pdb
+C:\Users\Diogo\Desktop\trabalho\trabalho\obj\x86\Debug\trabalho.exe
+C:\Users\Diogo\Desktop\trabalho\trabalho\obj\x86\Debug\trabalho.pdb

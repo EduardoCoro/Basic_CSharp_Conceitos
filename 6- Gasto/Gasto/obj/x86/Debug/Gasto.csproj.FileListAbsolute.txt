@@ -1,0 +1,4 @@
+C:\Users\Diogo\Desktop\Gasto\Gasto\bin\Debug\Gasto.exe
+C:\Users\Diogo\Desktop\Gasto\Gasto\bin\Debug\Gasto.pdb
+C:\Users\Diogo\Desktop\Gasto\Gasto\obj\x86\Debug\Gasto.exe
+C:\Users\Diogo\Desktop\Gasto\Gasto\obj\x86\Debug\Gasto.pdb

@@ -1,0 +1,16 @@
+C:\Users\CLI\Desktop\anonome\anonome\bin\Debug\anonome.exe
+C:\Users\CLI\Desktop\anonome\anonome\bin\Debug\anonome.pdb
+C:\Users\CLI\Desktop\anonome\anonome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CLI\Desktop\anonome\anonome\obj\x86\Debug\anonome.exe
+C:\Users\CLI\Desktop\anonome\anonome\obj\x86\Debug\anonome.pdb
+F:\Du LP\anonome\anonome\obj\x86\Debug\anonome.exe
+F:\Du LP\anonome\anonome\obj\x86\Debug\anonome.pdb
+F:\Du LP\anonome\anonome\bin\Debug\anonome.exe
+F:\Du LP\anonome\anonome\bin\Debug\anonome.pdb
+F:\Du LP\anonome\anonome\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Du LP\anonome\anonome\obj\x86\Debug\anonome.exe
+E:\Du LP\anonome\anonome\obj\x86\Debug\anonome.pdb
+D:\Du LP\anonome\anonome\obj\x86\Debug\anonome.exe
+D:\Du LP\anonome\anonome\obj\x86\Debug\anonome.pdb
+D:\Du LP\anonome\anonome\bin\Debug\anonome.exe
+D:\Du LP\anonome\anonome\bin\Debug\anonome.pdb

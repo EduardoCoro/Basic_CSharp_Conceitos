@@ -1,0 +1,10 @@
+C:\Users\CLI\Desktop\C#\Progeto nome\Progeto nome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CLI\Desktop\C#\Progeto nome\Progeto nome\bin\Debug\Progeto nome.exe
+C:\Users\CLI\Desktop\C#\Progeto nome\Progeto nome\bin\Debug\Progeto nome.pdb
+C:\Users\CLI\Desktop\C#\Progeto nome\Progeto nome\obj\x86\Debug\Progeto nome.exe
+C:\Users\CLI\Desktop\C#\Progeto nome\Progeto nome\obj\x86\Debug\Progeto nome.pdb
+C:\Users\CLI\Desktop\C#\km\Progeto nome\obj\x86\Debug\Progeto nome.exe
+C:\Users\CLI\Desktop\C#\km\Progeto nome\obj\x86\Debug\Progeto nome.pdb
+C:\Users\CLI\Desktop\C#\km\Progeto nome\bin\Debug\Progeto nome.exe
+C:\Users\CLI\Desktop\C#\km\Progeto nome\bin\Debug\Progeto nome.pdb
+C:\Users\CLI\Desktop\C#\km\Progeto nome\obj\x86\Debug\ResolveAssemblyReference.cache
